@@ -1,12 +1,12 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   border: 0;
   outline: none;
   box-sizing: border-box;
-}
+} */
 /* responsive images */
-img {
+/* img {
   width: 100%;
   height: auto;
   display: block;
@@ -30,17 +30,4 @@ img {
   --cyan: #0dcaf0;
   --white: #fff;
   --gray: #adb5bd;
-}
-
-@media screen and (min-width: 768px) {
-  /* styles */
-}
-@media screen and (min-width: 992px) {
-  /* styles */
-}
-@media screen and (min-width: 1200px) {
-  /* styles */
-}
-@media screen and (min-width: 1400px) {
-  /* styles */
-}
+} */

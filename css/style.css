@@ -7,8 +7,32 @@
   outline: 0 none;
 }
 
+/* Declaracion de variables */
+/* concatenar strings */
+/* Valores numericos */
+/* Fuentes */
 /* Generics */
 :root {
   font-size: 0.785rem;
   box-sizing: border-box;
+}
+
+body {
+  background-color: #198754;
+  padding-top: 3em;
+  padding: 1em;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+}
+body h1 {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 900;
+}
+body .main {
+  width: 80%;
+  border: 1px solid #292a2b;
+  margin-top: 5em;
+  border-radius: 0.3rem;
+  padding: 1em 2em;
+  margin: 2em auto;
 }/*# sourceMappingURL=style.css.map */
